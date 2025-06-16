@@ -3,7 +3,7 @@ import Card from './components/Card'
 
 const StorePage = () => {
   return (
-    <div>StorePage</div>
+    <div>StorePage did something now!!!</div>
   )
 }
 
